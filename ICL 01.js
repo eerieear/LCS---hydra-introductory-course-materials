@@ -1,8 +1,3 @@
-WIFI :
-Network:
-Zipernowsky Haz
-Pass:
-Zipijelszo2018
 
 
 // PART 0 (10m) (10)
